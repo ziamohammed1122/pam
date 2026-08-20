@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "sam portal",
+			"path": "../../../Documents/GitHub/sam portal"
+		},
+		{
+			"name": "src",
+			"path": "."
+		},
+		{
+			"name": "node_modules",
+			"path": "../node_modules"
+		}
+	],
+	"settings": {}
+}
